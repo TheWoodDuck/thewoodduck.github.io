@@ -1,0 +1,106 @@
+
+
+#background {
+	
+	background-size: 100%;
+	width: 100%;
+	height: 79vh;
+	margin: 1px;
+	overflow: hidden;
+
+}
+
+
+#menu {
+	background-color: #d9f2d9;
+	margin: 0px;
+	height: 9vh;
+	
+}
+.home li {
+	display: inline;
+	float: right;
+	list-style: none;
+	margin: 12px;
+     font-family: Agency FB;
+	transition: .15s;
+	font-size: 22px;	
+
+}
+.home li:hover{
+	color: #cc6600;
+	font-size: bold;
+}
+#goods {background-color:#ffd1b3;
+	
+	height: 5vh;
+	width: 100%
+	margin:0px;
+	padding: 0px;
+}
+.goods  li {
+	float: left;	
+	color: #000000;
+    margin: 10px;
+	line-height: 2px;
+	list-style: none;
+	font-family: Berlin Sans FB Demi;
+display: inline;
+margin-top: 13px;
+}
+.goods li:hover {
+	color: #408000;
+
+}
+#para {
+	text-align: center;
+	font-weight: 20px;
+	font-family: Rockwell Condensed;
+	font-size: 30px;
+}
+#temp {
+	text-align: center;
+	font-size: 35px;
+	line-height: 300px;	
+}
+#img {
+	height: 9vh;
+	margin-left: 10px;
+	margin-top: 2px;
+	width: 6%;
+}
+#head {
+	text-align: center;
+}
+.search {
+	display: inline;
+	float: right;
+}
+#title{
+	display: inline;
+	margin-left: 500px;
+	font-size: 45px;
+	color: white;
+	line-height: 60px;
+	font-family: Algerian;
+}
+.cover {
+	color: brown;
+}
+.oo {
+	color: green;
+}
+#img {
+	width: 50px;
+	height: 7vh;
+	float: left;
+	margin-left: 30px;
+}
+#form {
+	margin-right: 10px;
+	margin-top: 6px;
+}
+#button{
+	color: blue;
+	border: sold black;
+}
